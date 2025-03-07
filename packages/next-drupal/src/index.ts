@@ -6,4 +6,4 @@ export * from "./next-drupal-pages"
 
 export type * from "./types"
 
-export * from "./deprecated"
+// export * from "./deprecated"
